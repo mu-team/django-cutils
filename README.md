@@ -4,7 +4,7 @@ Django common and useful routines
 
 Common things that can be useful in any Django projects.
 
-### Requirements
+### System requirements
 
 ```bash
 python --version == 3.4.*, 3.5.*, 3.6.*
@@ -16,18 +16,10 @@ python --version == 3.4.*, 3.5.*, 3.6.*
 pip install git+https://github.com/mu-team/django-cutils.git
 ```
 
-### Distribution
-
-```bash
-pip install setuptools
-
-python3 setup.py sdist
-```
-
 ### Contribution
 
 ```bash
-pip install -r requires.txt
+pip install -r requirements.txt
 ```
 
 ### Overview
